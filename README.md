@@ -49,4 +49,10 @@ This repo will hold the course work and code from the [Udacity C++ Nanodegree](h
     - [Lesson 4: Dynamic Memory Allocation](./section-four-memory-management/lesson-four-dynamic-allocation)
         - [Using Malloc and Free](./section-four-memory-management/esson-four-dynamic-allocation/using-malloc-and-free)
         - Using New and Delete
+<<<<<<< HEAD
     - [Section Project: Memory Management Chatbot](https://github.com/mharrisb1/memory-management-chatbot)
+=======
+    - Lesson 5: Resource Copying Policies
+    - [Lesson 6: Smart Pointers](./section-four-memory-management/lesson-six-smart-pointers)
+        - [Unique Pointer](./section-four-memory-management/lesson-six-smart-pointers/unique_ptr.ipynb)
+>>>>>>> b5e224364fbe74e9c814e2e457c987e980d61008
